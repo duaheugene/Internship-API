@@ -1,4 +1,4 @@
-# Zaptek Internship Applications API
+# Internship Applications API
 
 This is a complete FastAPI backend project that uses mock/sample data instead of a real database.
 It manages internship applications and supports CRUD operations.
